@@ -123,14 +123,14 @@ import subprocess
 
 # Step 2: This is a part where the user sets the desired output paths
 # a. Set your output folder path (Remember to Change this to your desired output folder path)
-output_folder_path = r"C:\Users\User\Downloads\BAN6420\Assignment_3\output"
+output_folder_path = input(r"Enter the path for the output folder (e.g., C:\Users\User\Downloads\BAN6420\Assignment_3\output): ")
 # The script below creates this output folder path if it does not exist on your PC. This will prevent an error from occuring.
 os.makedirs(output_folder_path, exist_ok=True)
 # This line of code defines the output file paths
 output_file_path = os.path.join(output_folder_path, "Policy_holder_details.txt")
 
 # b. Set your script folder path (Remember to Change this to your desired script folder path)
-script_folder_path = r"C:\Users\User\Downloads\BAN6420\Assignment_3\script"
+script_folder_path = input(r"Enter the path for the script folder (e.g., C:\Users\User\Downloads\BAN6420\Assignment_3\script): ")
 # The script below creates this script folder path if it does not exist on your PC. This will prevent an error from occuring.
 os.makedirs(script_folder_path, exist_ok=True)
 

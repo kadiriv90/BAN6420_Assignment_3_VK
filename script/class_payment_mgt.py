@@ -38,7 +38,7 @@ import os
 import json
 
 # Step 2: Define the paths for input and output
-output_folder_path = r"C:\Users\User\Downloads\BAN6420\Assignment_3\output"
+output_folder_path = input(r"Enter the path for the output folder (e.g., C:\Users\User\Downloads\BAN6420\Assignment_3\output): ")
 product_data_path = os.path.join(output_folder_path, "product_data.json")
 payment_data_path = os.path.join(output_folder_path, "payment_data.json")
 
