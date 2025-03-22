@@ -1,0 +1,51 @@
+[
+    {
+        "policyholder_id": "POL001",
+        "name": "Victor K",
+        "email": "vk@gmail.com",
+        "phone": "+447412345678",
+        "status": "active"
+    },
+    {
+        "policyholder_id": "Jasmine K",
+        "name": "1",
+        "email": "1",
+        "phone": "a",
+        "status": "active"
+    },
+    {
+        "policyholder_id": "POL002",
+        "name": "JASMINE K",
+        "email": "jk@gmail.com",
+        "phone": "+44645632145",
+        "status": "active"
+    },
+    {
+        "policyholder_id": "POL003",
+        "name": "DEBBY K",
+        "email": "dk@gmail.com",
+        "phone": "+746587654321",
+        "status": "active"
+    },
+    {
+        "policyholder_id": "POL004",
+        "name": "DANNY K",
+        "email": "dak@gmail.com",
+        "phone": "+448788765432",
+        "status": "active"
+    },
+    {
+        "policyholder_id": "POL005",
+        "name": "DENNIS K",
+        "email": "dek@gmail.com",
+        "phone": "+997654321675",
+        "status": "active"
+    },
+    {
+        "policyholder_id": "POL007",
+        "name": "SONNY K",
+        "email": "sk@gmail.com",
+        "phone": "+4474987654321",
+        "status": "active"
+    }
+]
