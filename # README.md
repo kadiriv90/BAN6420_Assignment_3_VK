@@ -1,6 +1,6 @@
 # README
 
-# Project Title: Creation of an Insurance Management Portal using Python for Policyholder, Product, Payment and Report Management
+# Project Title: Creation of an Insurance Management Portal using Python classes,libraries, functions and syntax to enable Policyholder, Product, Payment and Report Management
 
 # Created by:  Victor Kadiri
 
