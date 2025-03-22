@@ -1,0 +1,42 @@
+[
+    {
+        "payment_id": "PMT001",
+        "policyholder_id": "POL001",
+        "product_id": "PRD003",
+        "amount": 300.0,
+        "due_date": "2025-03-24",
+        "status": "paid"
+    },
+    {
+        "payment_id": "PMT002",
+        "policyholder_id": "POL002",
+        "product_id": "PRD002",
+        "amount": 200.0,
+        "due_date": "2025-03-24",
+        "status": "pending"
+    },
+    {
+        "payment_id": "PMT003",
+        "policyholder_id": "POL003",
+        "product_id": "PRD003",
+        "amount": 300.0,
+        "due_date": "2025-03-24",
+        "status": "paid"
+    },
+    {
+        "payment_id": "PMT004",
+        "policyholder_id": "POL004",
+        "product_id": "PRD004",
+        "amount": 400.0,
+        "due_date": "2025-03-24",
+        "status": "pending"
+    },
+    {
+        "payment_id": "PMT005",
+        "policyholder_id": "POL005",
+        "product_id": "PRD001",
+        "amount": 100.0,
+        "due_date": "2025-03-24",
+        "status": "pending"
+    }
+]

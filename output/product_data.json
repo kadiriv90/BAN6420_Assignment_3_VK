@@ -1,0 +1,26 @@
+[
+    {
+        "product_id": "PRD001",
+        "name": "ZENITH INSURANCE",
+        "price": 100.0,
+        "status": "active"
+    },
+    {
+        "product_id": "PRD002",
+        "name": "FIRST INSURANCE",
+        "price": 200.0,
+        "status": "active"
+    },
+    {
+        "product_id": "PRD003",
+        "name": "LEADWAY INSURANCE",
+        "price": 300.0,
+        "status": "active"
+    },
+    {
+        "product_id": "PRD004",
+        "name": "LIFETIME INSURANCE",
+        "price": 400.0,
+        "status": "active"
+    }
+]
